@@ -3328,7 +3328,7 @@
     "key": "cargoText",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeStaticText[`label == '81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları'`]",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları\")]",
     "iosType": "classChain"
   },
   {
