@@ -132,3 +132,8 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
+
+BasicIOS
+-----
+tags:Basic_IOS
+*Uygulama baslatilir
