@@ -134,3 +134,8 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGitüüüüüüü------ııı�
 * Yeni Sepete Ekle butonu ile Gratis4 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
+
+AndroidBasicTest
+--------
+tags:AndroidBasicTest
+* Uygulama baslatilir
