@@ -133,9 +133,9 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
 
-BasicIOS
+BasicIOSTesti
 -----
-tags:Basic_IOS
+tags:Basic_IOSTesti
 * Uygulama baslatilir
 * "2" saniye bekle
 * "gratisBosBtn" li element varsa tıkla
