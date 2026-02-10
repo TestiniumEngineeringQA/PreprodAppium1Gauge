@@ -3407,5 +3407,12 @@
     "androidType": "",
     "iosValue": "//XCUIElementTypeImage[@name=\"removeCircle\"]",
     "iosType": "xpath"
+  },
+  {
+    "key": "gratisBosBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[contains(@text, \"\")]",
+    "iosType": "xpath"
   }
 ]
