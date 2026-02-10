@@ -136,8 +136,8 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 BasicIOSTesti
 -----
 tags:Basic_IOSTesti
-* Uygulama baslatilir
-* "2" saniye bekle
+Uygulama baslatilir
+* "15" saniye bekle
 * "gratisBosBtn" li element varsa tıkla
 
 Success01
